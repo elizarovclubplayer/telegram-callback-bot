@@ -1,3 +1,5 @@
 .env
 calls.json
 node_modules
+*.log
+*.tmp
